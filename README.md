@@ -39,7 +39,7 @@ I am a **Full-Stack Developer** with a unique background that blends technical e
 
 ### 📊 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=benzemrou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzemrou&layout=compact&theme=tokyonight"/>
 </p>
 
