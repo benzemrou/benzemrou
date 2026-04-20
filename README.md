@@ -47,7 +47,6 @@ I am a **Full-Stack Developer** with a unique background that blends technical e
 
 ### ☕ Connect with me
 - 📸 **Instagram/TikTok:** Legal Side of Beauty
-- ⚽ **Fun Fact:** Die-hard **Real Madrid** fan. ¡Hala Madrid! ⚪
 
 ---
 <p align="center">
