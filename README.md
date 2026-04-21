@@ -18,7 +18,63 @@ I am a **Full-Stack Developer** with a unique background that blends technical e
 * 🎥 **Content Strategist:** Creating educational content about the legal side of the beauty industry for YouTube, Instagram, and TikTok.
 * ⚡ **Fact:** I love optimizing workflows, whether it's in a Redux store or a financial balance sheet.
 
+---# 🚀 I'm AHMED BENZEMROU | Full-Stack Developer Student
+
+<p align="left">
+<a href="https://github.com/benzemrou">
+  <img src="https://img.shields.io/badge/-FullStack%20Student-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</a>
+<a href="https://linkedin.com/in/ahmed-benzemrou">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
 ---
+
+### 🧐 About Me
+I am a **Full-Stack Developer student** at :contentReference[oaicite:0]{index=0}, based in Tetouan, Morocco. I am passionate about building simple and functional web applications while continuously improving my skills in both frontend and backend development.
+
+* 🎓 **Student Developer:** Learning modern web development and software engineering fundamentals.
+* 🎥 **Content Interest:** Sharing my learning journey in tech and digital skills.
+* ⚡ **Fact:** I enjoy turning ideas into small working projects.
+
+---
+
+### 🛠️ Technical Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript, React (learning) |
+| **Backend** | PHP, Node.js (basic), Express (learning) |
+| **Database** | MySQL |
+| **Tools** | Git, GitHub, Postman |
+
+---
+
+### 🏗️ Featured Projects
+* **Sports Reservation System:** Web application for booking football and basketball fields with availability management.
+* **Hotel Reservation System:** Academic project for managing reservations and users data.
+* **Portfolio Website:** Personal project to showcase my skills and learning journey.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=benzemrou&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzemrou&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### ☕ Connect with me
+- 📸 Instagram / TikTok: Tech learning journey
+
+---
+
+<p align="center">
+  <i>"Learning by building, step by step."</i>
+</p>
 
 ### 🛠️ Technical Toolkit
 
